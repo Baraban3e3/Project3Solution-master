@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Project3/Project3.iml" filepath="$PROJECT_DIR$/Project3/Project3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Project3Client/Project3Client.iml" filepath="$PROJECT_DIR$/Project3Client/Project3Client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Project3Solution-master.iml" filepath="$PROJECT_DIR$/.idea/Project3Solution-master.iml" />
+    </modules>
+  </component>
+</project>
